@@ -26,10 +26,10 @@
    * Specify one of: "pnpmVersion", "npmVersion", or "yarnVersion".  See the Rush documentation
    * for details about these alternatives.
    */
-  // "pnpmVersion": "4.14.4",
+  "pnpmVersion": "5.7.0",
 
   // "npmVersion": "4.5.0",
-  "yarnVersion": "1.22.4",
+  // "yarnVersion": "1.22.4",
 
   /**
    * Options that are only used when the PNPM package manager is selected
